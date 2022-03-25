@@ -2,6 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({ 
+  base: '/',
   lang: 'en-US',
   title: 'Syber Ink Wiki',
   description: 'wiki(docs/API/...) of Syber.Ink, include Syber Connect', 
