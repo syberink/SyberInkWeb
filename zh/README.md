@@ -1,2 +1,3 @@
 # SyberInkWiki
-wiki(docs/API/...) of Syber.Ink, include Syber Connect
+Syber.Ink 的 wiki(docs/API/...) , 包括 Syber Connect
+![Syber.Ink Logo](/logo.png)
