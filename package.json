@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36"
+  },
+  "name": "SyberInkWiki",
+  "version": "1.0.0",
+  "description": "wiki(docs/API/...) of Syber.Ink, include Syber Connect",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": "git@github.com:syberink/SyberInkWiki.git",
+  "author": "Syber.Ink<syberink@pm.me>",
+  "license": "MIT",
+  "private": null
+}
