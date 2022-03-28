@@ -13,7 +13,7 @@
     "dev": "vuepress dev",
     "clean": "vuepress clean",
     "build": "vuepress build",
-    "deploy": "source deploy.sh" 
+    "deploy": "bash deploy.sh" 
   },
   "repository": "git@github.com:syberink/SyberInkWiki.git",
   "author": "Syber.Ink<syberink@pm.me>",
