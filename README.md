@@ -17,12 +17,12 @@ actions:
     link: https://twitter.com/syber_ink
     type: secondary 
 
-  - text: More2 ...
+  - text: More ...
     link: /blog
     type: secondary 
 
 features:
-  - title: Syber Connect2
+  - title: Syber Connect
     icon: link
     details: Unified login compatible with Web3 Multi-Chain login and web2 OpenID login. 
     # link: https://syber.ink/guide/feature/syber-connect.html
