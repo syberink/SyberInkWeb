@@ -1,6 +1,9 @@
 {
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.36"
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.36",
+    "@vuepress/plugin-search": "^2.0.0-beta.36",
+    "vuepress": "^2.0.0-beta.36",
+    "vuepress-theme-hope": "^2.0.0-beta.26"
   },
   "name": "SyberInkWiki",
   "version": "1.0.0",
@@ -8,7 +11,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "clean": "vuepress clean",
+    "build": "vuepress build",
+    "deploy": "source deploy.sh" 
   },
   "repository": "git@github.com:syberink/SyberInkWiki.git",
   "author": "Syber.Ink<syberink@pm.me>",

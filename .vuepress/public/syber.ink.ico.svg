@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg_canvas"
+   data-noselect=""
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   preserveAspectRatio="none"
+   version="1.1"
+   sodipodi:docname="syber.ink.ico.svg"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   inkscape:export-filename="/home/alan/GitClient/todolist/logos/syber.ink.ico.png"
+   inkscape:export-xdpi="99.915276"
+   inkscape:export-ydpi="99.915276"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     width="300px"
+     inkscape:zoom="1"
+     inkscape:cx="140.5"
+     inkscape:cy="98.5"
+     inkscape:window-width="1848"
+     inkscape:window-height="1009"
+     inkscape:window-x="72"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg_canvas" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB"
+       id="filter2661"
+       x="-0.00034025236"
+       y="-0.0010477564"
+       width="1.0007876"
+       height="1.0020955">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix2657" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic"
+         id="feComposite2659"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2681" />
+      <feColorMatrix
+         id="feColorMatrix2683"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite2685"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2705" />
+      <feColorMatrix
+         id="feColorMatrix2707"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite2709"
+         operator="arithmetic"
+         k2="1"
+         result="composite"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+    <filter
+       inkscape:label="Opacity"
+       style="color-interpolation-filters:sRGB"
+       id="filter2661-3"
+       x="-0.00034025236"
+       y="-0.0010477564"
+       width="1.0007876"
+       height="1.0020955">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         id="feColorMatrix2657-6" />
+      <feComposite
+         in2="colormatrix"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic"
+         id="feComposite2659-7"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2681-5" />
+      <feColorMatrix
+         id="feColorMatrix2683-3"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite2685-5"
+         operator="arithmetic"
+         k2="1"
+         result="fbSourceGraphic"
+         k1="0"
+         k3="0"
+         k4="0" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2705-6" />
+      <feColorMatrix
+         id="feColorMatrix2707-2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -1 "
+         result="colormatrix"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="colormatrix"
+         id="feComposite2709-9"
+         operator="arithmetic"
+         k2="1"
+         result="composite"
+         k1="0"
+         k3="0"
+         k4="0" />
+    </filter>
+  </defs>
+  <!---->
+  <g
+     id="g22"
+     transform="matrix(1.150394,0,0,2.2245813,16.614697,-193.04592)">
+    <g
+       id="g4156"
+       transform="matrix(0.60459505,0,0,0.30467234,-11.853082,89.211459)">
+      <svg
+         version="1.1"
+         id="图层_1"
+         x="0px"
+         y="0px"
+         viewBox="0 0 177.3 181.7"
+         xml:space="preserve"
+         width="169.06148"
+         height="173.25702"
+         class="style-removed"
+         preserveAspectRatio="none"
+         data-parent="shape_1GlShPgHKN"
+         inkscape:transform-center-x="10.448137"
+         inkscape:transform-center-y="7.3600107">
+
+<g
+   id="g19">
+	<path
+   d="m 45.8,121.7 c 1.7,1.4 3,1.9 4,1.9 0.9,0 1.6,-0.4 2,-0.8 0.7,-0.7 2.1,-2.7 -0.9,-6.7 l -0.2,-0.3 C 42.1,104.1 37.3,92 36.4,79.7 35.4,65.5 38,51.9 44.1,39.4 48.6,30.2 45.2,26.3 43.6,25 c -1.5,-1.2 -3.4,-1.6 -5.5,-1.2 -4,0.7 -8.1,4.2 -11.3,9.5 -5.7,9.5 -10.5,27.9 -5.2,48.4 6.2,24.4 22.4,38.5 24.2,40 z"
+   fill="#c7a068"
+   stroke-width="0"
+   id="path9" />
+	<path
+   d="m 72.5,154.3 c 2.3,0 3.8,-0.1 4.4,-0.2 4.3,-0.4 5,-2.4 5,-3.5 0,-1 -0.4,-3.4 -5.4,-4.1 l -0.4,-0.1 C 61.8,144.3 49.8,139.1 40.5,131 29.7,121.7 22,110.3 17.5,97.1 14.2,87.5 9,87 7,87.3 5.1,87.5 3.5,88.6 2.3,90.4 0,93.8 -0.5,99.1 1,105.1 c 2.7,10.7 12.3,27.1 30.5,37.9 16.7,9.9 33.2,11.3 41,11.3 z"
+   fill="#c7a068"
+   stroke-width="0"
+   id="path11" />
+	<path
+   d="m 116.1,150 -0.3,0.2 c -11.6,8.6 -23.7,13.4 -36.1,14.3 -14.2,1 -27.8,-1.6 -40.3,-7.7 -9.2,-4.5 -13.1,-1.1 -14.4,0.5 v 0 c -1.2,1.5 -1.6,3.4 -1.2,5.5 0.7,4 4.2,8.1 9.5,11.3 6.6,4 17.5,7.5 30.5,7.5 5.7,0 11.7,-0.7 17.9,-2.3 24.4,-6.3 38.5,-22.5 40,-24.3 2.7,-3.3 1.8,-5.2 1.1,-6 -0.7,-0.6 -2.7,-2 -6.7,1 z"
+   fill="#c7a068"
+   stroke-width="0"
+   id="path13" />
+	<path
+   d="m 177.1,38.1 c -0.7,-4 -4.2,-8.1 -9.5,-11.3 -9.5,-5.7 -27.9,-10.5 -48.4,-5.2 -24.4,6.3 -38.5,22.5 -40,24.3 -2.7,3.3 -1.8,5.2 -1.1,6 0.4,0.4 1.1,0.9 2.3,0.9 1.1,0 2.5,-0.4 4.4,-1.9 l 0.3,-0.2 c 11.6,-8.6 23.7,-13.4 36.1,-14.3 14.2,-1 27.8,1.6 40.3,7.7 9.2,4.5 13.1,1.1 14.4,-0.5 v 0 c 1.2,-1.5 1.6,-3.4 1.2,-5.5 z"
+   fill="#c7a068"
+   stroke-width="0"
+   id="path15" />
+	<path
+   d="m 50.3,81.9 c 0,0 0.1,0 0,0 1.1,0 3.4,-0.6 4.1,-5.4 l 0.1,-0.4 C 56.6,61.8 61.8,49.8 69.9,40.5 79.2,29.7 90.6,22 103.8,17.5 113.4,14.2 113.9,9 113.6,7 113.4,5.1 112.3,3.5 110.5,2.3 107.1,0 101.8,-0.5 95.8,1 85.1,3.6 68.7,13.2 57.9,31.4 45.1,53.1 46.6,74.5 46.8,76.9 c 0.4,4.3 2.4,4.9 3.5,5 z"
+   fill="#c7a068"
+   stroke-width="0"
+   id="path17" />
+</g>
+</svg>
+    </g>
+  </g>
+  <g
+     id="g37"
+     transform="matrix(1.3361287,0,0,1.6658237,23.780967,12.662618)">
+    <svg
+       version="1.1"
+       width="115.08"
+       height="151.12"
+       viewBox="0 0 115.08 151.12"
+       data-parent="shape_dAo2NnXjl4"
+       id="svg35">
+      <g
+         data-width="30.986025390625"
+         transform="matrix(0.98581131,0,0,0.52132222,26.198508,10.563274)"
+         id="g33">
+        <path
+           d="M 3.12,-2.42 V -17.08 H 1.03 v 14.66 z"
+           transform="translate(0,82.06)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.035"
+           data-glyph-w="4.1465234375"
+           data-glyph-h="21.90267578125"
+           data-glyph-ascender="17.6124609375"
+           data-glyph-descender="-4.29021484375"
+           id="path27" />
+        <path
+           d="M 3.1,-17.08 H 1.03 v 14.66 h 2.09 v -10.89 l 7.35,10.89 h 2.07 v -14.66 h -2.09 v 10.89 z"
+           transform="translate(4.1465234,82.06)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.035"
+           data-glyph-w="13.56857421875"
+           data-glyph-h="21.90267578125"
+           data-glyph-ascender="17.6124609375"
+           data-glyph-descender="-4.29021484375"
+           id="path29" />
+        <path
+           d="m 3.12,-8.98 6.91,6.56 h 3.04 l -7.72,-7.33 7.72,-7.33 h -3.04 l -6.91,6.56 v -6.56 H 1.03 v 14.66 h 2.09 z"
+           transform="translate(17.715098,82.06)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.035"
+           data-glyph-w="13.270927734375"
+           data-glyph-h="21.90267578125"
+           data-glyph-ascender="17.6124609375"
+           data-glyph-descender="-4.29021484375"
+           id="path31" />
+      </g>
+    </svg>
+  </g>
+  <g
+     id="g56"
+     transform="matrix(0.29788815,0.0064965,-0.00156498,0.51742857,14.639677,-0.31413635)"
+     style="filter:url(#filter2661-3)">
+    <svg
+       version="1.1"
+       width="562.23999"
+       height="543.35999"
+       viewBox="0 0 562.24 543.36"
+       data-parent="shape_lqIjDNFO7J"
+       id="svg54">
+      <g
+         data-width="259.8112890625"
+         transform="matrix(1.0685007,7.5635911e-4,3.1648685e-4,1.1287389,92.225799,-188.57675)"
+         id="g52">
+        <path
+           d="m 49.22,-15.57 q 0,7.82 -6.72,12.99 v 0 Q 35.42,2.8 24.06,2.8 v 0 Q 9.3,2.8 1.48,-7.45 v 0 l 4.79,-3.84 q 6.42,6.35 16.31,6.35 v 0 q 7.75,0 12.54,-3.03 v 0 q 4.5,-2.8 4.5,-6.86 v 0 q 0,-4.28 -5.53,-6.57 v 0 q -1.84,-0.74 -12.32,-3.32 v 0 q -8.49,-2.07 -12.32,-4.87 v 0 Q 3.84,-33.57 3.84,-40.81 v 0 q 0,-7.08 5.9,-11.65 v 0 q 6.27,-4.87 16.6,-4.87 v 0 q 12.62,0 19.93,8.78 v 0 l -4.73,3.83 q -5.38,-5.46 -13.65,-5.46 v 0 q -6.86,0 -11.07,2.73 v 0 q -3.98,2.66 -3.98,6.64 v 0 q 0,3.62 5.68,5.76 v 0 q 0.81,0.3 12.55,3.25 v 0 q 8.41,2.14 12.47,5.09 v 0 q 5.68,4.06 5.68,11.14 z"
+           transform="translate(0,299.68)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.126"
+           data-glyph-w="50.6930859375"
+           data-glyph-h="73.7890625"
+           data-glyph-ascender="64.934375"
+           data-glyph-descender="-8.8546875"
+           id="path42" />
+        <path
+           d="M 23.98,-21.03 V 1.7 h 9 V -21.03 L 55.56,-56.15 H 44.86 L 28.48,-30.7 12.18,-56.15 H 1.48 Z"
+           transform="translate(50.693086,299.68)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.126"
+           data-glyph-w="57.038945312500005"
+           data-glyph-h="73.7890625"
+           data-glyph-ascender="64.934375"
+           data-glyph-descender="-8.8546875"
+           id="path44" />
+        <path
+           d="M 2.95,-56.15 V 1.7 h 29.89 q 6.78,0 11.58,-4.8 v 0 q 4.72,-4.8 4.72,-11.58 v 0 q 0,-9.6 -8.41,-14.32 v 0 q 5.83,-4.57 5.83,-11.95 v 0 q 0,-6.35 -4.5,-10.78 v 0 q -4.43,-4.42 -10.7,-4.42 v 0 z m 9,30.4 h 17.12 q 4.58,0 7.82,3.24 v 0 q 3.25,3.25 3.25,7.83 v 0 q 0,4.64 -3.25,7.89 v 0 q -3.24,3.25 -7.82,3.25 v 0 H 11.95 Z M 27.6,-30.99 H 11.95 V -50.91 H 27.6 q 4.13,0 7.01,2.87 v 0 q 2.95,2.95 2.95,7.09 v 0 q 0,4.13 -2.95,7.01 v 0 q -2.88,2.95 -7.01,2.95 z"
+           transform="translate(107.73203,299.68)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.126"
+           data-glyph-w="50.619296875"
+           data-glyph-h="73.7890625"
+           data-glyph-ascender="64.934375"
+           data-glyph-descender="-8.8546875"
+           id="path46" />
+        <path
+           d="M 45.01,1.7 H 2.95 v -57.85 h 42.06 v 5.24 H 11.95 v 21.03 h 33.06 v 5.23 H 11.95 v 21.11 h 33.06 z"
+           transform="translate(158.35133,299.68)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.126"
+           data-glyph-w="47.962890625"
+           data-glyph-h="73.7890625"
+           data-glyph-ascender="64.934375"
+           data-glyph-descender="-8.8546875"
+           id="path48" />
+        <path
+           d="M 2.95,-56.15 V 1.7 h 9 v -23.69 h 8.12 q 2.21,0 5.17,1.62 v 0 q 3.24,1.78 4.64,4.06 v 0 L 41.32,1.7 h 10.7 L 39.55,-17.86 q -1.55,-2.51 -3.84,-4.5 v 0 q 5.83,-1.25 9.6,-5.9 v 0 q 3.83,-4.72 3.83,-10.85 v 0 q 0,-7.08 -4.94,-12.03 v 0 q -5.02,-5.01 -12.1,-5.01 v 0 z m 25.39,28.92 H 11.95 v -23.68 h 16.39 q 4.87,0 8.33,3.46 v 0 q 3.47,3.47 3.47,8.34 v 0 q 0,4.95 -3.47,8.41 v 0 q -3.46,3.47 -8.33,3.47 z"
+           transform="translate(206.31422,299.68)"
+           fill="#c7a068"
+           stroke="#c7a068"
+           stroke-width="0.126"
+           data-glyph-w="53.4970703125"
+           data-glyph-h="73.7890625"
+           data-glyph-ascender="64.934375"
+           data-glyph-descender="-8.8546875"
+           id="path50" />
+      </g>
+    </svg>
+  </g>
+</svg>
