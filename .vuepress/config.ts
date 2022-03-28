@@ -9,7 +9,7 @@ export default defineHopeConfig({
   base: '/',
   dest: ".vuepress/dist",
   lang: 'en-US',
-  title: 'Syber Ink',
+  // title: 'Syber Ink',
   description: 'Syber.Ink:Simplify ink/sign-ing of Syber Era, including multi-signature, unified-login, agreement-inking and signature-verification on Multi Chain with privacy protection based on Zero-Knowledge-Proof technology.', 
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
@@ -43,7 +43,24 @@ export default defineHopeConfig({
     pwa({
       showInstall: true,
       manifest: { 
+        name: "SyberInk", 
+        short_name: "SyberInk", 
         icons: [
+          {
+            src: "/images/icons/android-chrome-36x36.png",
+            sizes: "36x36",
+            type: "image/png"
+          },
+          {
+            src: "/images/icons/android-chrome-72x72.png",
+            sizes: "72x72",
+            type: "image/png"
+          },
+          {
+            src: "/images/icons/android-chrome-144x144.png",
+            sizes: "144x144",
+            type: "image/png"
+          }, 
           {
             src: "/images/icons/android-chrome-192x192.png",
             sizes: "192x192",
@@ -61,10 +78,13 @@ export default defineHopeConfig({
           }
         ] 
       },
-      favicon: "/images/icons/favicon.ico",  
+      favicon: "/images/icons/favicon.ico", 
+      appleTouchIcon: "apple-touch-icon.png",  
+      favicon32: "/images/icons/favicon-32x32.png",  
+      favicon16: "/images/icons/favicon-16x16.png",   
       maxSize: 20480,
       maxPicSize: 10240,
-      themeColor: "#c7a068",
+      // themeColor: "#c7a068",
       skipWaiting: true,
       cachePic: true,
       cacheHTML: true,
