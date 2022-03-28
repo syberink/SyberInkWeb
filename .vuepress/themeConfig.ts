@@ -23,11 +23,11 @@ export default defineThemeConfig({
   themeColor: false,
   darkmode: 'auto-switch',
   fullscreen: false,
-  footer: "<img src='https://img.shields.io/github/license/syberink/SyberInkWiki'/>",
+  footer: "<img src='https://img.shields.io/github/license/syberink/SyberInkWeb'/>",
   copyright: "Copyright © 2022-present",
 
   repo: "https://github.com/syberink",
-  docsRepo: "https://github.com/syberink/SyberInkWiki",
+  docsRepo: "https://github.com/syberink/SyberInkWeb",
   // repoDisplay: false,
   docsDir: "/",
 

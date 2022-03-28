@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy www.syber.ink' 
 
 # 发布到 gh-pages
-git push -f git@github.com:syberink/SyberInkWiki.git master:gh-pages
+git push -f git@github.com:syberink/SyberInkWeb.git master:gh-pages
 
 cd -

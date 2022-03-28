@@ -5,7 +5,7 @@
     "vuepress": "^2.0.0-beta.36",
     "vuepress-theme-hope": "^2.0.0-beta.26"
   },
-  "name": "SyberInkWiki",
+  "name": "SyberInkWeb",
   "version": "1.0.0",
   "description": "wiki(docs/API/...) of Syber.Ink, include Syber Connect",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "build": "vuepress build",
     "deploy": "bash deploy.sh" 
   },
-  "repository": "git@github.com:syberink/SyberInkWiki.git",
+  "repository": "git@github.com:syberink/SyberInkWeb.git",
   "author": "Syber.Ink<syberink@pm.me>",
   "license": "MIT",
   "private": null
