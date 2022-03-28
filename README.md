@@ -22,7 +22,7 @@ actions:
     type: secondary 
 
 features:
-  - title: Syber Connect
+  - title: Syber Connect2
     icon: link
     details: Unified login compatible with Web3 Multi-Chain login and web2 OpenID login. 
     # link: https://syber.ink/guide/feature/syber-connect.html
