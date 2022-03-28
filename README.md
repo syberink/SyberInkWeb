@@ -17,7 +17,7 @@ actions:
     link: https://twitter.com/syber_ink
     type: secondary 
 
-  - text: More ...
+  - text: More2 ...
     link: /blog
     type: secondary 
 
