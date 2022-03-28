@@ -6,7 +6,7 @@ import themeConfig from "./themeConfig";
 // export default defineUserConfig<DefaultThemeOptions>({  
 export default defineHopeConfig({
   base: '/',
-  dest: "./dist",
+  dest: ".vuepress/dist",
   lang: 'en-US',
   // title: 'Syber Ink',
   description: 'wiki(docs/API/...) of Syber.Ink, include Syber Connect', 
