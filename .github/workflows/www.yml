@@ -43,7 +43,7 @@ jobs:
         run: yarn build
 
       - name: Update CNAME
-        run: echo 'www2.syber.ink' > .vuepress/dist/CNAME
+        run: echo 'www.syber.ink' > .vuepress/dist/CNAME
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
