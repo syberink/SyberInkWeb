@@ -3,17 +3,19 @@
     "@vuepress/plugin-docsearch": "^2.0.0-beta.36",
     "@vuepress/plugin-search": "^2.0.0-beta.36",
     "vuepress": "^2.0.0-beta.36",
+    "vuepress-plugin-pwa2": "^2.0.0-beta.27",
     "vuepress-theme-hope": "^2.0.0-beta.26"
   },
-  "name": "SyberInkWeb",
+  "name": "SyberInk",
   "version": "1.0.0",
-  "description": "wiki(docs/API/...) of Syber.Ink, include Syber Connect",
+  "description": "Simplify ink/sign-ing of Syber Era, including multi-signature, unified-login, agreement-inking and signature-verification on Multi Chain with privacy protection based on Zero-Knowledge-Proof technology.",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev",
     "clean": "vuepress clean",
     "build": "vuepress build",
-    "deploy": "bash deploy.sh" 
+    "deploy": "bash deploy.sh",
+    "icons": "bash icons.sh"
   },
   "repository": "git@github.com:syberink/SyberInkWeb.git",
   "author": "Syber.Ink<syberink@pm.me>",
