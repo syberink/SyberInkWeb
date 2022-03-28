@@ -15,5 +15,8 @@ cp ../../../../*.svg ../../
 wget $1 -O icons.zip
 unzip icons.zip
 rm -rf icons.zip
+
+# 强制换大小： convert img1.jpeg  -resize  128x96!  img2.png
 convert android-chrome-512x512.png  -resize  384x384 android-chrome-384x384.png
+
 cp favicon.ico ../../

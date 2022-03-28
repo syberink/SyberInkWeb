@@ -9,11 +9,11 @@ actions:
   - text: 🚀开始使用
     link: https://app.syber.ink
 
-  - text: 💡使用指南
+  - text: 💡指南
     link: /zh/guide/
     type: secondary 
 
-  - text: 🐦关注我们
+  - text: 🐦关注
     link: https://twitter.com/syber_ink
     type: secondary 
 

@@ -9,11 +9,11 @@ actions:
   - text: 🚀Launch App
     link: https://app.syber.ink
 
-  - text: 💡Use Guide
+  - text: 💡Guide
     link: /guide/
     type: secondary
 
-  - text: 🐦Follow Us
+  - text: 🐦Follow
     link: https://twitter.com/syber_ink
     type: secondary 
 

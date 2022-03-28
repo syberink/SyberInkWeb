@@ -14,10 +14,17 @@ export default defineHopeConfig({
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'theme-color', content: '#c7a068' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/images/icons/apple-touch-icon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/images/icons/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/icons/favicon-16x16.png' }],
+    ['link', { rel: 'mask-icon', color: '#5bbad5', href: '/images/icons/safari-pinned-tab.svg' }],
+    ['link', { rel: 'shortcut icon', href: '/images/icons/favicon.ico' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#da532c' }],
+    ['meta', { name: 'msapplication-config', content: '/images/icons/browserconfig.xml' }],
+    ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css' }] ,
     ['script', { crossorigin: 'stylesheet', src: 'https://kit.fontawesome.com/ca37c296c5.js' }] 
-  ],
+  ],   
   locales: { 
     '/': {
       lang: 'en-US',
@@ -35,7 +42,7 @@ export default defineHopeConfig({
   plugins: [
     pwa({
       showInstall: true,
-      manifest: {
+      manifest: { 
         icons: [
           {
             src: "/images/icons/android-chrome-192x192.png",
@@ -55,8 +62,8 @@ export default defineHopeConfig({
         ] 
       },
       favicon: "/images/icons/favicon.ico",  
-      maxSize: 2048,
-      maxPicSize: 1024,
+      maxSize: 20480,
+      maxPicSize: 10240,
       themeColor: "#c7a068",
       skipWaiting: true,
       cachePic: true,
