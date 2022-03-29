@@ -17,14 +17,15 @@ export default defineHopeConfig({
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/images/icons/apple-touch-icon.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/images/icons/favicon-32x32.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/icons/favicon-16x16.png' }],
-    ['link', { rel: 'mask-icon', color: '#5bbad5', href: '/images/icons/safari-pinned-tab.svg' }],
+    ['link', { rel: 'mask-icon', color: '#c7a068', href: '/images/icons/safari-pinned-tab.svg' }],
     ['link', { rel: 'shortcut icon', href: '/images/icons/favicon.ico' }],
-    ['meta', { name: 'msapplication-TileColor', content: '#da532c' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
     ['meta', { name: 'msapplication-config', content: '/images/icons/browserconfig.xml' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css' }] ,
     ['script', { crossorigin: 'stylesheet', src: 'https://kit.fontawesome.com/ca37c296c5.js' }] 
   ],   
+  serviceWorker: true,
   locales: { 
     '/': {
       lang: 'en-US',
@@ -45,6 +46,9 @@ export default defineHopeConfig({
       manifest: { 
         name: "SyberInk", 
         short_name: "SyberInk", 
+        theme_color: "transparent",
+        background_color: "transparent",
+        orientation: "any",
         icons: [
           {
             src: "/images/icons/android-chrome-36x36.png",
