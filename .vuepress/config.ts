@@ -13,12 +13,9 @@ export default defineHopeConfig({
   description: 'Syber.Ink:Simplify ink/sign-ing of Syber Era, including multi-signature, unified-login, agreement-inking and signature-verification on Multi Chain with privacy protection based on Zero-Knowledge-Proof technology.', 
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/images/icons/apple-touch-icon.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/images/icons/favicon-32x32.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/icons/favicon-16x16.png' }],
     ['link', { rel: 'mask-icon', color: '#c7a068', href: '/images/icons/safari-pinned-tab.svg' }],
-    ['link', { rel: 'shortcut icon', href: '/images/icons/favicon.ico' }],
+    ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
     ['meta', { name: 'msapplication-config', content: '/images/icons/browserconfig.xml' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
@@ -43,49 +40,37 @@ export default defineHopeConfig({
   plugins: [
     pwa({
       showInstall: true,
-      manifest: { 
+      manifest: {
         name: "SyberInk", 
-        short_name: "SyberInk", 
-        theme_color: "transparent",
-        background_color: "transparent",
+        short_name: "SyberInk",       
         orientation: "any",
-        icons: [
+        icons: [ 
           {
-            src: "/images/icons/android-chrome-36x36.png",
-            sizes: "36x36",
-            type: "image/png"
-          },
-          {
-            src: "/images/icons/android-chrome-72x72.png",
-            sizes: "72x72",
-            type: "image/png"
-          },
-          {
-            src: "/images/icons/android-chrome-144x144.png",
-            sizes: "144x144",
+            src: "/images/icons/favicon-16x16.png",
+            sizes: "16x16",
             type: "image/png"
           }, 
+          {
+            src: "/images/icons/favicon-32x32.png",
+            sizes: "32x32",
+            type: "image/png"
+          }, 
+          {
+            src: "/favicon.ico",
+            sizes: "48x48" 
+          },  
           {
             src: "/images/icons/android-chrome-192x192.png",
             sizes: "192x192",
             type: "image/png"
-          },
-          {
-            src: "/images/icons/android-chrome-384x384.png",
-            sizes: "384x384",
-            type: "image/png"
-          },
+          }, 
           {
             src: "/images/icons/android-chrome-512x512.png",
             sizes: "512x512",
             type: "image/png"
           }
         ] 
-      },
-      favicon: "/images/icons/favicon.ico", 
-      appleTouchIcon: "apple-touch-icon.png",  
-      favicon32: "/images/icons/favicon-32x32.png",  
-      favicon16: "/images/icons/favicon-16x16.png",   
+      },  
       maxSize: 20480,
       maxPicSize: 10240,
       // themeColor: "#c7a068",
@@ -93,9 +78,9 @@ export default defineHopeConfig({
       cachePic: true,
       cacheHTML: true,
       update: 'force',
-      apple:{
-        icon: "/images/icons/apple-touch-icon.png",  
-      },
+      // apple:{
+      //   icon: "/images/icons/apple-touch-icon.png",  
+      // },
       locales: {
         "/": { 
         },

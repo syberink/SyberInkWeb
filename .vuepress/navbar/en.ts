@@ -37,7 +37,7 @@ export const en = defineNavbarConfig([
     ],
   },
   {
-    text: "🚀Launch APP", 
+    text: "🚀Launch", 
     // icon: "rocket",
     link: "https://app.syber.ink",
   },

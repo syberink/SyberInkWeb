@@ -37,7 +37,7 @@ export const zh = defineNavbarConfig([
     ],
   },
   {
-    text: "🚀开始使用",
+    text: "🚀使用",
     // icon: "rocket",
     link: "https://app.syber.ink",
   }, 

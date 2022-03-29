@@ -6,7 +6,7 @@ heroImage: /syber.ink.ico.svg
 heroText: Syber Ink
 tagline: Simplify ink/sign-ing of Syber Era, including multi-signature, unified-login, agreement-inking and signature-verification on Multi Chain with privacy protection based on Zero-Knowledge-Proof technology.
 actions:
-  - text: 🚀Launch App
+  - text: 🚀Launch
     link: https://app.syber.ink
 
   - text: 💡Guide

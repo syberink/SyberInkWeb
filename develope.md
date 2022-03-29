@@ -58,8 +58,9 @@ features:
 :::
 ## Based on
 1. [fontawesome Icon](https://fontawesome.com/)
-2. [VuePress Theme Hope](https://vuepress-theme-hope.github.io/) : A powerfull vuepress-theme
+2. [Favicon Generator](https://realfavicongenerator.net)
 3. [VuePress](https://v2.vuepress.vuejs.org/) : Vue-powered Static Site Generator
+2. [VuePress Theme Hope](https://vuepress-theme-hope.github.io/) : A powerfull vuepress-theme
 ## Develop by
 
 ## Compatible with
