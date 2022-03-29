@@ -17,7 +17,9 @@ echo 'www.syber.ink' > CNAME
 
 git init
 git add -A
-git commit -m 'deploy www.syber.ink with PWA' 
+
+# commit with note, such as version : `yarn deploy 'V0.1' `
+git commit -m "deploy www.syber.ink : $1" 
 
 # 发布到 gh-pages
 git push -f git@github.com:syberink/SyberInkWeb.git master:gh-pages
