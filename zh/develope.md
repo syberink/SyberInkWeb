@@ -10,22 +10,22 @@ features:
   - title: 路线图 RoadMap1
     icon: handshake
     details: TBD.
-    link: /zh/blog/roadmap/1.html 
+    link: /zh/info/roadmap/1.html 
 
   - title: 路线图 RoadMap2
     icon: check-double
     details: TBD.
-    # link: /zh/blog/roadmap/2.html  
+    # link: /zh/info/roadmap/2.html  
 
   - title: 路线图 RoadMap3
     icon: sitemap
     details: TBD.
-    # link: /zh/blog/roadmap/3.html 
+    # link: /zh/info/roadmap/3.html 
 
   - title: 路线图 RoadMap4
     icon: code-merge
     details: TBD.
-    # link: /zh/blog/roadmap/4.html  
+    # link: /zh/info/roadmap/4.html  
 --- 
 ## 特点 Features
 - [x] I18N

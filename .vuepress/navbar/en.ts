@@ -8,15 +8,15 @@ export const en = defineNavbarConfig([
   { text: "develope", icon: "layer-group", link: "/develope" },
   { text: "Guide", icon: "lightbulb", link: "/guide/" },
   {
-    text: "Blog",
+    text: "Info",
     icon: "rss",
-    // link: "/blog/",
-    // prefix: "/blog/", 
+    // link: "/info/",
+    // prefix: "/info/", 
     children: [
-      { text: "All", icon: "square-rss", link: "/article/" },
+      { text: "All", icon: "square-rss", link: "/info/" },
       {
         text: "announcements", 
-        prefix: "/blog/announcements/",
+        prefix: "/info/announcements/",
         children: [
           { text: "Notice 1", icon: "bullhorn", link: "article1" },
           { text: "Notice 2", icon: "bullhorn", link: "article2" },
@@ -25,7 +25,7 @@ export const en = defineNavbarConfig([
       },
       {
         text: "news", 
-        prefix: "/blog/news/",
+        prefix: "/info/news/",
         children: [
           { text: "News 4", icon: "circle-info", link: "article4" },
           { text: "News 5", icon: "circle-info", link: "article5" },

@@ -18,7 +18,7 @@ actions:
     type: secondary 
 
   - text: More ...
-    link: /blog
+    link: /info
     type: secondary 
 
 features:
@@ -62,4 +62,4 @@ features:
     details: Record logs of agreements(create, edit, comment) with privacy protection.
     # link: https://syber.ink/guide/feature/version-management.html   
 --- 
-
+<button class="add-button">Add to home screen</button>

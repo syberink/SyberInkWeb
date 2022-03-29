@@ -1,14 +1,15 @@
 ---
 icon: edit
-date: 2022-01-11
+date: 2022-01-12
 category:
-  - 博客 
+  - 资讯
 tag:
   - tag A
   - tag B
+star: true
 ---
 
-# 文章 11
+# 文章 12
 
 ## 标题 2
 

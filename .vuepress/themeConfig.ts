@@ -34,6 +34,7 @@ export default defineThemeConfig({
   pageInfo: ["Author", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
+    sidebarDisplay: 'none',
     medias: {
       GitHub: "https://github.com/syberink",
       Twitter: "https://twitter.com/syber_ink",
@@ -76,10 +77,9 @@ export default defineThemeConfig({
 
       displayFooter: true,
 
-      blog: {
-        logo: '',
-        description: "A FrontEnd programmer",
-        intro: "/intro.html",
+      blog: { 
+        name: "Info",
+        intro: "/info/",
       },
       selectLanguageName: 'English',
     },
@@ -96,10 +96,10 @@ export default defineThemeConfig({
 
       displayFooter: true,
 
-      // blog: {
-      //   // description: "一个前端开发者",
-      //   // intro: "/zh/intro.html",
-      // },
+      blog: {
+        name: "资讯",
+        intro: "/zh/info/",
+      },
       selectLanguageText: '选择语言',
       // selectLanguageAriaLabel: '选择语言',
       // selectLanguageName: '简体中文',
@@ -128,13 +128,13 @@ export default defineThemeConfig({
       autoExcerpt: true,
     },
 
-    // you can also use Waline
+    // you can also use giscus : https://giscus.app/
     comment: {
       type: "giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      repo: "syberink/SyberInkWeb",
+      repoId: "R_kgDOHD8SyA",
+      category: "General",
+      categoryId: "DIC_kwDOHD8SyM4COR0Y",
     },
 
     mdEnhance: {

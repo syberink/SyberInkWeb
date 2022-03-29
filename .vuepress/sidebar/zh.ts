@@ -6,7 +6,7 @@ export const zh = defineSidebarConfig({
     {
       text: "公告",
       // icon: "bullhorn",
-      prefix: "blog/announcements/",
+      prefix: "info/announcements/",
       children: ["article1", "article2", "article3"],
     },
     {
@@ -21,21 +21,21 @@ export const zh = defineSidebarConfig({
       // icon: "circle-info",
       // 可选的, 设置分组是否可以折叠，默认值是 false,
       collapsable: true,
-      prefix: "blog/news/",
+      prefix: "info/news/",
       children: ["article4", "article5", "article6"],
     },
     {
       text: "FAQ",
       // icon: "circle-info", 
       collapsable: true,
-      prefix: "blog/faq/",
+      prefix: "info/faq/",
       children: "structure",
     },
     {
       text: "Q&A",
       // icon: "circle-info", 
       collapsable: true,
-      prefix: "blog/qa/",
+      prefix: "info/qa/",
       children: "structure",
     },
   ],

@@ -18,7 +18,7 @@ actions:
     type: secondary 
 
   - text: 更多 ...
-    link: /zh/blog
+    link: /zh/info
     type: secondary
 
 features:

@@ -10,22 +10,22 @@ features:
   - title: RoadMap1
     icon: handshake
     details: TBD.
-    link: /blog/roadmap/1.html 
+    link: /info/roadmap/1.html 
 
   - title: RoadMap2
     icon: check-double
     details: TBD.
-    # link: /blog/roadmap/2.html  
+    # link: /info/roadmap/2.html  
 
   - title: RoadMap3
     icon: sitemap
     details: TBD.
-    # link: /blog/roadmap/3.html 
+    # link: /info/roadmap/3.html 
 
   - title: RoadMap4
     icon: code-merge
     details: TBD.
-    # link: /blog/roadmap/4.html  
+    # link: /info/roadmap/4.html  
 --- 
 ## Features
 - [x] I18N

@@ -27,11 +27,11 @@ Syber Ink : Simplify ink/sign-ing of Syber Era, including multi-signature, unifi
 
 <!-- more -->
 ::: warning
-Latest announcements: [announcements 1](/blog/announcements/article1)
+Latest announcements: [announcements 1](/info/announcements/article1)
 :::
 
 ::: info
-Latest news: [news 1](/blog/news/article1)
+Latest news: [news 1](/info/news/article1)
 :::
 
 ## Syber Ink
