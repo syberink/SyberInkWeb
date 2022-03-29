@@ -3,6 +3,9 @@
 # 确保脚本抛出遇到的错误
 set -e
 
+# clean
+rm -rf .vuepress/dist
+
 # 生成静态文件
 npx npm run build
 

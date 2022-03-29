@@ -24,7 +24,7 @@ export default defineThemeConfig({
   darkmode: 'auto-switch',
   fullscreen: false,
   footer: '',
-  copyright: "MIT Licensed | Copyright © 2022-present Syber.Ink",
+  copyright: "GPL-3.0 Licensed | Copyright © 2022-present Syber.Ink",
 
   repo: "https://github.com/syberink",
   docsRepo: "https://github.com/syberink/SyberInkWeb",
