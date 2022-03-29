@@ -61,5 +61,4 @@ features:
     icon: code-merge
     details: Record logs of agreements(create, edit, comment) with privacy protection.
     # link: https://syber.ink/guide/feature/version-management.html   
---- 
-<button class="add-button">Add to home screen</button>
+---  

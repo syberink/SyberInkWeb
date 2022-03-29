@@ -1,7 +1,7 @@
 ---
 home: true
 icon: lightbulb
-title: Syber Ink 使用指南
+title: 指南
 heroImage: /syber.ink.ico.svg
 heroText: Syber Ink 使用指南
 tagline: Syber.Ink 使用指南, 包括 Syber Connect. 

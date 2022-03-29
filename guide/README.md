@@ -1,7 +1,7 @@
 ---
 home: true
 icon: lightbulb
-title: Syber Ink Guide
+title: Guide
 heroImage: /syber.ink.ico.svg
 heroText: Syber Ink Guide
 tagline: Syber.Ink Guide, include Syber Connect. 

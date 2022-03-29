@@ -11,18 +11,20 @@ export default defineHopeConfig({
   lang: 'en-US',
   // title: 'Syber Ink',
   description: 'Syber.Ink:Simplify ink/sign-ing of Syber Era, including multi-signature, unified-login, agreement-inking and signature-verification on Multi Chain with privacy protection based on Zero-Knowledge-Proof technology.', 
-  head: [
+  head: [ 
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/images/icons/apple-touch-icon.png' }],
     ['link', { rel: 'mask-icon', color: '#c7a068', href: '/images/icons/safari-pinned-tab.svg' }],
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }], 
+    ['meta', { name: 'msapplication-TileImage', content: '/images/icons/mstile-144x144.png' }], 
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
     ['meta', { name: 'msapplication-config', content: '/images/icons/browserconfig.xml' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['link', { rel: 'stylesheet', href: '//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css' }] ,
     ['script', { crossorigin: 'stylesheet', src: 'https://kit.fontawesome.com/ca37c296c5.js' }] 
   ],   
-  serviceWorker: true,
   locales: { 
     '/': {
       lang: 'en-US',
@@ -39,6 +41,8 @@ export default defineHopeConfig({
   themeConfig,
   plugins: [
     pwa({
+      skipWaiting: false,
+      serviceWorker: true,
       showInstall: true,
       manifest: {
         name: "SyberInk", 
@@ -73,11 +77,10 @@ export default defineHopeConfig({
       },  
       maxSize: 20480,
       maxPicSize: 10240,
-      // themeColor: "#c7a068",
-      skipWaiting: true,
+      themeColor: "#ffffff",
       cachePic: true,
       cacheHTML: true,
-      update: 'force',
+      update: 'force', // hint/force
       // apple:{
       //   icon: "/images/icons/apple-touch-icon.png",  
       // },
@@ -110,7 +113,7 @@ export default defineHopeConfig({
           // 更新内容提示文字
           hint: '提示',
           // 更新内容可用文字
-          update: '更新',  
+          update: '发现新内容可用',  
         },
       },
     }),
