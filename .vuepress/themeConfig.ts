@@ -23,8 +23,8 @@ export default defineThemeConfig({
   themeColor: false,
   darkmode: 'auto-switch',
   fullscreen: false,
-  footer: "<img src='https://img.shields.io/github/license/syberink/SyberInkWeb'/>",
-  copyright: "Copyright © 2022-present",
+  footer: '',
+  copyright: "MIT Licensed | Copyright © 2022-present Syber.Ink",
 
   repo: "https://github.com/syberink",
   docsRepo: "https://github.com/syberink/SyberInkWeb",
