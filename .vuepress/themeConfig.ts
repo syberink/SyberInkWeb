@@ -23,7 +23,7 @@ export default defineThemeConfig({
   themeColor: false,
   darkmode: 'auto-switch',
   fullscreen: false,
-  footer: '',
+  footer: '<a href="https://twitter.com/syber_ink"><i class="fa-brands fa-twitter"></i></a>',
   copyright: "GPL-3.0 Licensed | Copyright © 2022-present Syber.Ink",
 
   repo: "https://github.com/syberink",
