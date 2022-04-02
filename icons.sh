@@ -10,7 +10,7 @@ mkdir -p .vuepress/public/images/icons
 cd .vuepress/public/images/icons
 
 # copy syber.ink.logo.svg/ico.svg
-cp ../../../../*.svg ../../
+mv ../../../../*.svg ../../
 
 wget $1 -O icons.zip
 unzip icons.zip

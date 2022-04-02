@@ -18,7 +18,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview62"
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="true"
      showgrid="false"
      width="300px"
-     inkscape:zoom="1"
-     inkscape:cx="140.5"
-     inkscape:cy="98.5"
+     inkscape:zoom="2"
+     inkscape:cx="140.25"
+     inkscape:cy="58.25"
      inkscape:window-width="1848"
      inkscape:window-height="1009"
      inkscape:window-x="72"
@@ -161,7 +161,7 @@
   <!---->
   <g
      id="g22"
-     transform="matrix(1.150394,0,0,2.2245813,16.614697,-193.04592)">
+     transform="matrix(0.62441702,0,0,1.2194688,42.60635,-94.00442)">
     <g
        id="g4156"
        transform="matrix(0.60459505,0,0,0.30467234,-11.853082,89.211459)">
@@ -213,7 +213,7 @@
   </g>
   <g
      id="g37"
-     transform="matrix(1.3361287,0,0,1.6658237,23.780967,12.662618)">
+     transform="matrix(0.96441711,0,0,1.790412,39.866408,-34.796375)">
     <svg
        version="1.1"
        width="115.08"
@@ -263,7 +263,7 @@
   </g>
   <g
      id="g56"
-     transform="matrix(0.29788815,0.0064965,-0.00156498,0.51742857,14.639677,-0.31413635)"
+     transform="matrix(0.35137852,0.00391773,-0.00184599,0.31203608,-14.891706,64.059213)"
      style="filter:url(#filter2661-3)">
     <svg
        version="1.1"
