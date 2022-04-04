@@ -8,17 +8,17 @@ tagline: Syber.Ink Community, include Syber Connect.
 
 features:
   - title: Guest Book
-    icon: link
+    # icon: link
     details: TBD. 
     link: /community.html#guest-book
 
   - title: Discussiong
-    icon: people-roof
+    # icon: people-roof
     details: TBD.
     link: /community.html#discussiong
 
   - title: Issue
-    icon: eye-slash
+    # icon: eye-slash
     details: TBD. 
     link: /community.html#issue
 ---

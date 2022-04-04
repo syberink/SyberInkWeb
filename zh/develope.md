@@ -8,22 +8,22 @@ tagline: Syber.Ink 开发 , 包括 Syber Connect.
 
 features:
   - title: 路线图
-    icon: handshake
+    # icon: handshake
     details: TBD.
     link: /zh/develope.html#路线图-roadmap
 
   - title: 特点
-    icon: check-double
+    # icon: check-double
     details: TBD.
     link: /zh/develope.html#特点-features 
 
   - title: 多链
-    icon: sitemap
+    # icon: sitemap
     details: TBD.
     link: /zh/develope.html#多链-multi-chain 
 
   - title: 兼容
-    icon: code-merge
+    # icon: code-merge
     details: TBD.
     link: /zh/develope.html#兼容-compatible
 --- 

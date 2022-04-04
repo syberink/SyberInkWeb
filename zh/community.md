@@ -8,17 +8,17 @@ tagline: Syber.Ink 社区, 包括 Syber Connect.
 
 features:
   - title: 留言本
-    icon: link
+    # icon: link
     details: TBD. 
     link: /zh/community.html#留言本-guest-book
 
   - title: 社区讨论
-    icon: people-roof
+    # icon: people-roof
     details: TBD.
     link: /zh/community.html#社区讨论-discussiong
 
   - title: 提交问题
-    icon: eye-slash
+    # icon: eye-slash
     details: TBD. 
     link: /zh/community.html#提交问题-issue
 ---

@@ -8,22 +8,22 @@ tagline: Syber.Ink 生态, 包括 Syber Connect.
 
 features: 
   - title: 资助
-    icon: link
+    # icon: link
     details: TBD. 
     link: /zh/ecosystem.html#资助
 
   - title: 生态
-    icon: layer-group
+    # icon: layer-group
     details: TBD.
     link: /zh/ecosystem.html#生态
 
   - title: 联盟
-    icon: people-roof
+    # icon: people-roof
     details: TBD.
     link: /zh/ecosystem.html#联盟
 
   - title: 投资者
-    icon: eye-slash
+    # icon: eye-slash
     details: TBD. 
     link: /zh/ecosystem.html#投资者
 --- 

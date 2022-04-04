@@ -8,22 +8,22 @@ tagline: Syber.Ink develope , include Syber Connect.
 
 features:
   - title: RoadMap
-    icon: handshake
+    # icon: handshake
     details: TBD.
     link: /develope.html#roadmap
 
   - title: Features
-    icon: check-double
+    # icon: check-double
     details: TBD.
     link: /develope.html#features  
 
   - title: Multi Chain
-    icon: sitemap
+    # icon: sitemap
     details: TBD.
     link: /develope.html#multi-chain
 
   - title: Compatible
-    icon: code-merge
+    # icon: code-merge
     details: TBD.
     link: /develope.html#compatible
 --- 

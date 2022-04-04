@@ -8,22 +8,22 @@ tagline: Syber.Ink Ecosystem, include Syber Connect.
 
 features: 
   - title: Grant
-    icon: link
+    # icon: link
     details: TBD. 
     link: /ecosystem.html#grant
 
   - title: Ecosystem
-    icon: layer-group
+    # icon: layer-group
     details: TBD.
     link: /ecosystem.html#ecosystem
 
   - title: Union
-    icon: people-roof
+    # icon: people-roof
     details: TBD.
     link: /ecosystem.html#union
 
   - title: Investors
-    icon: eye-slash
+    # icon: eye-slash
     details: TBD. 
     link: /ecosystem.html#investors
 --- 
