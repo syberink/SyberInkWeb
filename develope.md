@@ -7,26 +7,33 @@ heroText: Syber Ink develope
 tagline: Syber.Ink develope , include Syber Connect. 
 
 features:
-  - title: RoadMap1
+  - title: RoadMap
     icon: handshake
     details: TBD.
-    link: /info/roadmap/1.html 
+    link: /develope.html#roadmap
 
-  - title: RoadMap2
+  - title: Features
     icon: check-double
     details: TBD.
-    # link: /info/roadmap/2.html  
+    link: /develope.html#features  
 
-  - title: RoadMap3
+  - title: Multi Chain
     icon: sitemap
     details: TBD.
-    # link: /info/roadmap/3.html 
+    link: /develope.html#multi-chain
 
-  - title: RoadMap4
+  - title: Compatible
     icon: code-merge
     details: TBD.
-    # link: /info/roadmap/4.html  
+    link: /develope.html#compatible
 --- 
+
+## RoadMap
+1. [RoadMap1](/info/roadmap/1)
+1. RoadMap2
+1. RoadMap3
+1. RoadMap4
+
 ## Features
 - [x] I18N
 - [x] English
@@ -56,13 +63,16 @@ features:
 - [ ] Oasis (ROSE) ： https://oasisprotocol.org
 - [ ] zkSync ： https://zksync.io
 :::
+
+## Compatible
+
 ## Based on
 1. [fontawesome Icon](https://fontawesome.com/)
 2. [Favicon Generator](https://realfavicongenerator.net)
 3. [VuePress](https://v2.vuepress.vuejs.org/) : Vue-powered Static Site Generator
 2. [VuePress Theme Hope](https://vuepress-theme-hope.github.io/) : A powerfull vuepress-theme
+
 ## Develop by
 
-## Compatible with
 
-## Grant from
+[![Stargazers over time](https://starchart.cc/syberink/SyberInkWeb.svg)](https://starchart.cc/syberink/SyberInkWeb)

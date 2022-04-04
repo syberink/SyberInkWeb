@@ -26,4 +26,10 @@ features:
     details: TBD.
     # link: /zh/guide/dao4.html  
 ---
-# 投票 vote
+
+## 投票 vote
+
+## 常见问题 FAQ
+
+## 答疑 Q&A
+

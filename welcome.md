@@ -25,13 +25,18 @@ star: true
 
 Syber Ink : Simplify ink/sign-ing of Syber Era, including multi-signature, unified-login, agreement-inking and signature-verification on Multi Chain with privacy protection based on Zero-Knowledge-Proof technology.
 
+You can support us at:
+1. gitcoin.co : 
+2. dorahacks.io :
+3. devpost.com : 
+
 <!-- more -->
 ::: warning
-Latest announcements: [announcements 1](/info/announcements/article1)
+Latest notice: [notice 1](/info/notice/notice1)
 :::
 
 ::: info
-Latest news: [news 1](/info/news/article1)
+Latest news: [news 1](/info/news/news1)
 :::
 
 ## Syber Ink

@@ -4,7 +4,7 @@ export const en = defineNavbarConfig([
   "/", 
   { text: "ecosystem", icon: "group-arrows-rotate", link: "/ecosystem" },
   { text: "community", icon: "people-group", link: "/community" },
-  { text: "DAO", icon: "building-columns", link: "/dao" },
+  // { text: "DAO", icon: "building-columns", link: "/dao" },
   { text: "develope", icon: "layer-group", link: "/develope" },
   { text: "Guide", icon: "lightbulb", link: "/guide/" },
   {
@@ -15,21 +15,17 @@ export const en = defineNavbarConfig([
     children: [
       { text: "All", icon: "square-rss", link: "/info/" },
       {
-        text: "announcements", 
-        prefix: "/info/announcements/",
+        text: "notice", 
+        prefix: "/info/notice/",
         children: [
-          { text: "Notice 1", icon: "bullhorn", link: "article1" },
-          { text: "Notice 2", icon: "bullhorn", link: "article2" },
-          { text: "Notice 3", icon: "bullhorn", link: "article3" }, 
+          { text: "Notice 1", icon: "bullhorn", link: "notice1" },
         ],
       },
       {
         text: "news", 
         prefix: "/info/news/",
         children: [
-          { text: "News 4", icon: "circle-info", link: "article4" },
-          { text: "News 5", icon: "circle-info", link: "article5" },
-          { text: "News 6", icon: "circle-info", link: "article6" }, 
+          { text: "News 1", icon: "circle-info", link: "news1" },
         ],
       }, 
       { text: "FAQ", link: "/category/faq/" },

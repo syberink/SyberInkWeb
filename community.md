@@ -7,31 +7,37 @@ heroText: Syber Ink Community
 tagline: Syber.Ink Community, include Syber Connect. 
 
 features:
-  - title: Community1
+  - title: Guest Book
     icon: link
     details: TBD. 
-    # link: /guide/communitym1.html
+    link: /community.html#guest-book
 
-  - title: Community2
-    icon: layer-group
-    details: TBD.
-    # link: /guide/communitym2.html 
-
-  - title: Community3
+  - title: Discussiong
     icon: people-roof
     details: TBD.
-    # link: /guide/communitym3.html
+    link: /community.html#discussiong
 
-  - title: Community4
+  - title: Issue
     icon: eye-slash
     details: TBD. 
-    # link: /guide/communitym4.html
+    link: /community.html#issue
 ---
- 
+
+## Guest Book
+If you have any idea, please leave a message here: [Guest Book](https://github.com/syberink/SyberInkWeb/discussions/1)
+
+Let us know what you think. Your feedback is very valuable, as it helps us continuously improve the product. 
+
+## how you might help the project?
+If you also think the service is valuable, please try to use it and let more people know.   
+
+BTW & THX , There are many ways to help us, even if you do not know how to code:  
+- 🐛 Reporting Bugs : Report bugs or incidents by posting an issue at [github.com](https://github.com/syberink/SyberInkWeb/issues/issues)   
+- 📆 Ecology Volunteers. Help us maintain and organize the community of [github.com discussions](https://github.com/syberink/SyberInkWeb/discussions).
+
+
 ## Discussiong
-
-## Q&A
-
-## FAQ
-
+[discussions@github.com ](https://github.com/syberink/SyberInkWeb/discussions)
 ## Issue
+[issue@github.com](https://github.com/syberink/SyberInkWeb/issues/issues)
+ 

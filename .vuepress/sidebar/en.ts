@@ -4,10 +4,10 @@ export const en = defineSidebarConfig({
   "/": [
     "welcome/", 
     {
-      text: "announcements",
+      text: "notice",
       // icon: "bullhorn",
-      prefix: "info/announcements/",
-      children: ["article1", "article2", "article3"],
+      prefix: "info/notice/",
+      children: ["notice1"],
     },
     {
       // icon: "lightbulb",
@@ -22,7 +22,7 @@ export const en = defineSidebarConfig({
       // 可选的, 设置分组是否可以折叠，默认值是 false,
       collapsable: true,
       prefix: "info/news/",
-      children: ["article4", "article5", "article6"],
+      children: ["news1"],
     },
     {
       text: "FAQ",
@@ -36,6 +36,13 @@ export const en = defineSidebarConfig({
       // icon: "circle-info", 
       collapsable: true,
       prefix: "info/qa/",
+      children: "structure",
+    },
+    {
+      text: "RoadMap",
+      // icon: "circle-info", 
+      collapsable: true,
+      prefix: "info/roadmap/",
       children: "structure",
     },
   ],

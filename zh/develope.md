@@ -7,26 +7,33 @@ heroText: Syber Ink 开发
 tagline: Syber.Ink 开发 , 包括 Syber Connect. 
 
 features:
-  - title: 路线图 RoadMap1
+  - title: 路线图
     icon: handshake
     details: TBD.
-    link: /zh/info/roadmap/1.html 
+    link: /zh/develope.html#路线图-roadmap
 
-  - title: 路线图 RoadMap2
+  - title: 特点
     icon: check-double
     details: TBD.
-    # link: /zh/info/roadmap/2.html  
+    link: /zh/develope.html#特点-features 
 
-  - title: 路线图 RoadMap3
+  - title: 多链
     icon: sitemap
     details: TBD.
-    # link: /zh/info/roadmap/3.html 
+    link: /zh/develope.html#多链-multi-chain 
 
-  - title: 路线图 RoadMap4
+  - title: 兼容
     icon: code-merge
     details: TBD.
-    # link: /zh/info/roadmap/4.html  
+    link: /zh/develope.html#兼容-compatible
 --- 
+
+## 路线图 RoadMap
+1. [路线图1](/zh/info/roadmap/1)
+1. 路线图2
+1. 路线图3
+1. 路线图4
+
 ## 特点 Features
 - [x] I18N
 - [x] English
@@ -37,7 +44,7 @@ features:
 - [x] website
 - [x] email
 
-## 公链 Chain
+## 多链 Multi Chain
 ::: tip
 - [x] Ethereum (ETH) ： https://ethereum.org
 - [ ] Binance Chain (BNB) ： https://www.bnbchain.world
@@ -57,6 +64,8 @@ features:
 - [ ] zkSync ： https://zksync.io
 :::
 
+## 兼容 Compatible
+
 ## 开发框架
 1. [fontawesome Icon](https://fontawesome.com/)
 2. [Favicon Generator](https://realfavicongenerator.net)
@@ -64,6 +73,5 @@ features:
 2. [VuePress Theme Hope](https://vuepress-theme-hope.github.io/) : A powerfull vuepress-theme
 ## 开发工具
 
-## 生态兼容
 
-## 资助来源
+[![Stargazers over time](https://starchart.cc/syberink/SyberInkWeb.svg)](https://starchart.cc/syberink/SyberInkWeb)

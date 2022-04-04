@@ -27,11 +27,11 @@ star: true
 
 <!-- more -->
 ::: warning
-最新公告: [公告 1](/zh/info/announcements/article1)
+最新公告: [公告 1](/zh/info/announcements/notice1)
 :::
 
 ::: info
-最新动态: [动态 1](/zh/info/news/article1)
+最新动态: [动态 1](/zh/info/news/news1)
 :::
 
 ## Syber Ink

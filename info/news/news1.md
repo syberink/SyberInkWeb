@@ -1,15 +1,14 @@
 ---
-icon: bullhorn
-date: 2022-01-02
+icon: circle-info
+date: 2022-03-03
 category:
-  - announcements
+  - news 
 tag:
   - tag A
   - tag B
-star: true
 ---
 
-# Article 2
+# News 1
 
 ## Heading 2
 

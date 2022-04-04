@@ -6,8 +6,8 @@ title: Info
 hero: false 
 projects:
   - icon: bullhorn
-    name: announcements
-    link: /category/announcements/
+    name: notice
+    link: /category/notice/
 
   - icon: circle-info
     name: news 

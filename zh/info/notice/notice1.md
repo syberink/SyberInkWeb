@@ -1,14 +1,14 @@
 ---
 icon: edit
-date: 2022-01-11
+date: 2022-01-01
 category:
-  - 资讯 
+  - 公告
 tag:
   - tag A
   - tag B
 ---
 
-# 文章 11
+# 公告 1
 
 ## 标题 2
 

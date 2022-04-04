@@ -1,15 +1,14 @@
 ---
 icon: edit
-date: 2022-01-06
+date: 2022-03-02
 category:
-  - 动态
+  - 文章 
 tag:
   - tag A
   - tag B
-star: 10
 ---
 
-# 文章 6
+# 文章 1
 
 ## 标题 2
 
